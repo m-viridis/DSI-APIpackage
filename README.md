@@ -1,0 +1,1 @@
+A basic package with GitHub API code that returns weekly commits data from a repo
